@@ -1,9 +1,9 @@
-### luo-cli
+### cluo-cli
 
 基于npm的cli工具，根据模板工程自动初始化项目
 
 ```
-luo-cli create test
+cluo-cli create test
 
 ? 项目名称 test
 ? 项目版本号 1.0.0
@@ -18,17 +18,17 @@ luo-cli create test
 ### install 
 
 ```
-npm install -g luo-cli
+npm install -g cluo-cli
 ```
 
 ### create template
 ```
-luo-cli create project-name
+cluo-cli create project-name
 ```
 
 ### templates list
 
 > 可下载的模板列表
 ```
-luo-cli -l
+cluo-cli -l
 ```

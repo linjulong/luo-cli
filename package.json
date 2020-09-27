@@ -1,22 +1,21 @@
 {
-  "name": "luo-cli",
+  "name": "cluo-cli",
   "version": "1.0.0",
   "description": "A simple CLI for building initialize project include Wechat applet, Vue, Egg (nodejs)",
-  "main": "index.js",
   "bin": {
-    "luo-cli": "bin/luo.js"
+    "cluo-cli": "bin/cluo.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "luo",
+    "cluo",
     "cli",
     "vue",
     "wechat",
     "egg"
   ],
-  "author": "linjulong",
+  "author": "863231099@qq.com",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
