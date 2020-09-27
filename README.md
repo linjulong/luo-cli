@@ -30,5 +30,5 @@ luo-cli create project-name
 
 > 可下载的模板列表
 ```
-bingo-cli -l
+luo-cli -l
 ```

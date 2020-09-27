@@ -6,7 +6,7 @@ module.exports = [{
         url: "direct:https://github.com/linjulong/vue-pc.git",
     },
     {
-        name: `wechat applet (${chalk.yellow(
+        name: `wechat-applet (${chalk.yellow(
         "微信小程序模板"
       )})`,
         value: "wechat-applet",
