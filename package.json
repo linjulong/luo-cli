@@ -1,6 +1,6 @@
 {
   "name": "cluo-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple CLI for building initialize project include Wechat applet, Vue, Egg (nodejs)",
   "bin": {
     "cluo-cli": "bin/cluo.js"
